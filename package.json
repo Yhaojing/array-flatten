@@ -1,12 +1,12 @@
 {
-  "name": "array-flatten",
+  "name": "array-flattened",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/Yhaojing/array-flatten",
+  "homepage": "https://github.com/Yhaojing/array-flattened",
   "keywords": [
     "flatten",
     "array"
@@ -16,5 +16,9 @@
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.5.3"
   }
 }
